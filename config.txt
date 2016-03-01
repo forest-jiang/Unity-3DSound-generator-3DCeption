@@ -1,2 +1,2 @@
--- UseKeyboard(use Keyboard or FileWatcher to trigger sound play), TextEnable(Enable Text Display), randomDelayRangeLow, randomDelayRangeHigh
-True,True,0,5.5
+-- Port for socket communication, randomDelayRangeLow, randomDelayRangeHigh
+5555,0,0.5
